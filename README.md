@@ -118,7 +118,7 @@ Now you can look for the file in the file explorer and integrate it with the And
 ![flow iot](https://github.com/adsmehra/IOT-Weather-Predictor/assets/64251955/fa75ef1b-2c70-4941-b041-cf6c83e6696f)
 
 # UI XML File
-How your app looks is specified in the activity_main.xml [here](app/src/main/res/layout/activity_main.xml)
+How your app looks is specified in the activity_main.xml [here](activity_main.xml)
 
 ## Dependencies 
 ### For TensorFlow
